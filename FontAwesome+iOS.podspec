@@ -11,7 +11,6 @@ This project uses the FontAwesome fix made by Pit Garbe that you can find at htt
   }
   s.author       = { "Alex Usbergo" => "alexakadrone@gmail.com" }
   s.source       = { :git => "https://github.com/alexdrone/ios-fontawesome.git" }
-  s.platform     = :ios, '5.0'
   s.source_files = '*.{h,m}'
   s.exclude_files = 'Demo'
   s.resources = "Resources/*.ttf"
