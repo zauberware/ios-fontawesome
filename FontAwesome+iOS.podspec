@@ -9,7 +9,7 @@ This project uses the FontAwesome fix made by Pit Garbe that you can find at htt
     LICENSE
   }
   s.author       = { "Alex Usbergo" => "alexakadrone@gmail.com" }
-  s.source       = { :git => "https://github.com/alexdrone/ios-fontawesome.git" }
+  s.source       = { :git => "https://github.com/zauberware/ios-fontawesome.git" }
   s.source_files = '*.{h,m}'
   s.exclude_files = 'Demo'
   s.resources = "Resources/*.ttf"
